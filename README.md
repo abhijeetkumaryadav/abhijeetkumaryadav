@@ -1,4 +1,4 @@
-# Abhijeet builds free tools. That's the whole pitch. 👋
+# Builds free tools. That's the whole pitch. 👋
 
 No company. No paywalls. No "premium tier." Just a self-taught builder making useful things, because curiosity is a good enough reason.
 
