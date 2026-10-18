@@ -30,8 +30,8 @@ If something here helps you → use it. If not → I'll use it myself. Either wa
 
 ### 🔗 Everywhere
 - ✉️ abhijeethkumaryadav@gmail.com
-- ▶️ YouTube: abhijeethukumaryadav
-- 📸 Instagram: @abhijeethkumaryadav
+- ▶️ [YouTube](https://www.youtube.com/@abhijeethkumaryadav)
+- 📸 [Instagram](https://www.instagram.com/abhijeethkumaryadav/)
 - 👍 [Facebook](https://www.facebook.com/profile.php?id=61577592795108)
 - 🐦 [X](https://x.com/abhijeethx)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhijeet-kumar-yadav-9b994a37a/)
