@@ -1,12 +1,12 @@
-# Hi, I'm Abhijeet 👋
+# Abhijeet builds free tools. That's the whole pitch. 👋
 
-Just a 12th-pass student who likes building things. No company, no pressure, no clients — I make **free tools** out of curiosity, because useful things shouldn't sit behind paywalls. If something I made helps you, use it. If not, I'll use it myself. 🙂
+No company. No paywalls. No "premium tier." Just a self-taught builder making useful things, because curiosity is a good enough reason.
 
-This isn't an NGO, and I'm not building for anyone in particular — just exploring, learning, and sharing.
+If something here helps you → use it. If not → I'll use it myself. Either way, it stays free.
 
 ---
 
-### 🧩 Things I've built
+### 🧩 Selected work
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -15,11 +15,11 @@ This isn't an NGO, and I'm not building for anyone in particular — just explor
 | [Unsung](https://github.com/abhijeetkumaryadav/Unsung) | Multilingual news platform with live TV | TypeScript |
 | [bome-bot](https://github.com/abhijeetkumaryadav/bome-bot) | Automation bot | Python |
 
-**990 free browser extensions** — productivity, privacy & dev-tool utilities for Chrome, Edge, Firefox and Opera. Free forever, no premium tier.
+**The extension forge** — 990+ free browser extensions: productivity, privacy & dev-tool utilities for Chrome, Edge, Firefox and Opera. Every single one free. That's not a marketing line, it's the point.
 
 ---
 
-### 🛠️ Learning
+### 🛠️ Learning in public
 `TypeScript` `JavaScript` `Python` `React` `Node.js` `Shell`
 
 ### 📊 GitHub Stats
@@ -28,7 +28,7 @@ This isn't an NGO, and I'm not building for anyone in particular — just explor
 
 ---
 
-### 🔗 Find me
+### 🔗 Everywhere
 - ✉️ abhijeethkumaryadav@gmail.com
 - ▶️ YouTube: abhijeethukumaryadav
 - 📸 Instagram: @abhijeethkumaryadav
@@ -38,4 +38,4 @@ This isn't an NGO, and I'm not building for anyone in particular — just explor
 - ✍️ [Substack](https://substack.com/@abhijeethkumaryadav)
 - 🦋 [Bluesky](https://bsky.app/profile/abhijeetkumaryadav.bsky.social)
 
-*Built free. Built curious.*
+*Free forever isn't a pricing strategy. It's a personality trait.*
